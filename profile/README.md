@@ -10,7 +10,7 @@ NutriScan is designed to transform how we understand and interact with the food 
 
 ## Project Repositories
 Explore our specialized repositories to see the technical backbone of NutriScan:
-- [**Machine Learning**](link-to-machine-learning-repo): Development of algorithms for accurate nutrition detection.
+- [**Machine Learning**](https://github.com/NutriScann/Machine-Learning): Development of algorithms for accurate nutrition detection.
 - [**Mobile Development**](https://github.com/NutriScann/nutriscan-app.git): Implementation of the user-friendly mobile interface.
 - [**Cloud Computing**](https://github.com/NutriScann/cloud-computing.git): Robust cloud infrastructure supporting seamless app functionality.
 - [**API Documentation**](https://nutriscann.github.io/api/): API Restful cloud infrastructure supporting seamless app functionality.
