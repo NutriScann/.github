@@ -10,7 +10,7 @@ NutriScan is designed to transform how we understand and interact with the food 
 
 ## Project Repositories
 Explore our specialized repositories to see the technical backbone of NutriScan:
-- [**Machine Learning**](https://github.com/NutriScann/Machine-Learning): Development of algorithms for accurate nutrition detection.
+- [**Machine Learning**](https://github.com/NutriScann/Machine-Learning.git): Development of algorithms for accurate nutrition detection.
 - [**Mobile Development**](https://github.com/NutriScann/nutriscan-app.git): Implementation of the user-friendly mobile interface.
 - [**Cloud Computing**](https://github.com/NutriScann/cloud-computing.git): Robust cloud infrastructure supporting seamless app functionality.
 - [**API Documentation**](https://nutriscann.github.io/api/): API Restful cloud infrastructure supporting seamless app functionality.
@@ -19,11 +19,11 @@ Explore our specialized repositories to see the technical backbone of NutriScan:
 Our project is powered by a diverse group of skilled students:
 - **Nur Rohman (A124D4KY3776)** – Mobile Developer
 - **Mohammad Diva Atalarik (A124D4KY3732)** – Mobile Developer
-- **Aryani Wulandari (M006D4KX1474)** – Machine Learning Specialist
-- **Nur Halimatus Sa'diah (M006D4KX1468)** – Machine Learning Specialist
-- **Regina Kembar Duanti (M006D4KX1457)** – Machine Learning Specialist
-- **Syahrana Pinem (C299D4KX0245)** – Cloud Computing Engineer
-- **Mochammad Febrian Maulana Hesda (C124D4KY0157)** – Cloud Computing Architect
+- **Aryani Wulandari (M006D4KX1474)** – Machine Learning
+- **Nur Halimatus Sa'diah (M006D4KX1468)** – Machine Learning
+- **Regina Kembar Duanti (M006D4KX1457)** – Machine Learning
+- **Syahrana Pinem (C299D4KX0245)** – Cloud Computing
+- **Mochammad Febrian Maulana Hesda (C124D4KY0157)** – Cloud Computing
 
 ## Get Involved
 Keen to contribute? Fantastic! Check out our [contribution guidelines](link-to-contribution-guidelines) and [code of conduct](link-to-code-of-conduct) for details on how you can help enhance NutriScan.
